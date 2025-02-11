@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recyclerview</string>
+    <string name="tv_send_message">Enviar mensagem</string>
+    <string name="tv_share_contact">Compartilhar contato</string>
+    <string name="block_contact">Bloquear contato</string>
+    <string name="tv_title">Contatos</string>
+</resources>
